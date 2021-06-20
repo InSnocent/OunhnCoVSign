@@ -22,7 +22,7 @@
 首先你需要拥有
 
 + Python环境(本地测试使用Python3.9.5)
-+ Chrome以及同类Chromium浏览器（以及其他支持Chromedriver的浏览器）
++ Chrome（以及其他支持Chromedriver的浏览器）
 
 #### 安装selenium及必要项目
 
