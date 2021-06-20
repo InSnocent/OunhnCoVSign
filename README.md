@@ -16,6 +16,27 @@
 部署于从同学那边白嫖的阿里云（（（
 
 ### 使用说明
-*咕了*
+---
+#### Windows
+
+首先你需要拥有
+
++ Python环境(本地测试使用Python3.9.5)
++ Chrome以及同类Chromium浏览器（以及其他同类支持Chromedriver的浏览器）
+
+#### 安装selenium及必要项目
+
+```shell
+pip install selenium
+```
+
+#### 导入项目
+
+```shell
+git clone https://github.com/GTX1080Ti/OunhnCoVSign.git
+cd clockin
+python Signin.py
+```
+
 
  
