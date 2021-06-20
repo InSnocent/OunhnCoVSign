@@ -8,7 +8,7 @@
 ### 运行环境
 这个脚本基于
 + [Python](https://www.python.org/)
-+ Selenium库
++ [Selenium库](https://www.selenium.dev/)
 + [ChromeDriver「淘宝源」](http://npm.taobao.org/mirrors/chromedriver/)
 
 *本地测试环境为Python3.9.5*
