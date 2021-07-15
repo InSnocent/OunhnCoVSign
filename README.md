@@ -37,6 +37,6 @@ git clone https://github.com/GTX1080Ti/OunhnCoVSign.git
 cd clockin
 python Signin.py
 ```
-
+将学生信息填入data.json文件中，并填写Signin.py中的发信邮箱以便通知信息
 
  
