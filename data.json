@@ -1,0 +1,16 @@
+{
+    "info":[
+        {
+            "StuId":"114514",
+            "address":"广东省佛山市南海区",
+            "phoneNumber":"1919810",
+            "Email":"10001@qq.com"
+        },
+        {
+            "StuId":"10086",
+            "address":"广东省佛山市南海区",
+            "phoneNumber":"1008610010",
+            "Email":"114514@qq.com"
+        }
+    ]
+}
