@@ -30,7 +30,7 @@
 pip install selenium
 ```
 
-#### 导入项目
+#### 导入项目并启动
 
 ```shell
 git clone https://github.com/GTX1080Ti/OunhnCoVSign.git
